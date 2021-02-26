@@ -1,5 +1,5 @@
 # IPL-Managment
-All tables are shown using MYSQL
+All tables are shown using MYSQL <br>
 Steps To Run:<br>
 1. Create DataBase called <b>IPL</b> on PHP My admin
 2. Run `sql.php`
